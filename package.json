@@ -3,10 +3,13 @@
   "description": "dark theme for vscode",
   "version": "0.0.1",
   "author": "vitormalencar",
+  "publisher": "vitormalencar",
   "bugs": {
     "url": "https://github.com/vitormalencar/sourc/issues"
   },
-  "categories": [ "Themes" ],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
@@ -17,7 +20,9 @@
     ]
   },
   "displayName": "sourc",
-  "engines": { "vscode": "^1.44.0" },
+  "engines": {
+    "vscode": "^1.44.0"
+  },
   "homepage": "https://github.com/vitormalencar/sourc#readme",
   "keywords": [
     "Themes",

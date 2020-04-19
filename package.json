@@ -5,6 +5,10 @@
   "author": "vitormalencar",
   "publisher": "vitormalencar",
   "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#002F48",
+    "theme": "dark"
+  },
   "scripts": {
     "publish": "vsce publish"
   },

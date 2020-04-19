@@ -1,4 +1,4 @@
-<p align="center"><img width="800px" src="https://github.com/vitormalencar/sourc/blob/master/images/banner.png"></p>
+<p align="center"><img width="400px" src="https://github.com/vitormalencar/sourc/blob/master/images/banner.png?raw=true"></p>
 <p align="center">
 Sourc is a dark syntax vsCode theme that supports a variety of languages including JavaScript, HTML, CSS, PHP, Python and Ruby.
 

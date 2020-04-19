@@ -1,13 +1,24 @@
-# README
-## This is the README for your extension "sourc"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<p align="center"><img width="800px" src="https://github.com/vitormalencar/sourc/blob/master/images/banner.png"></p>
+<p align="center">
+Sourc is a dark syntax vsCode theme that supports a variety of languages including JavaScript, HTML, CSS, PHP, Python and Ruby.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+The most epic theme meets Visual Studio Code. You can help by reporting issues [here]().
 
-**Enjoy!**
+<!-- ## Getting started -->
+
+
+### Installation
+
+Launch *Quick Open*:
+  - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
+  - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘P`
+  - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl+P`
+
+Paste the following command and press `Enter`:
+
+```shell
+ext install sourc theme
+```
+
+And pick the one by **Vitor Alencar (vitormalencar)**  as author.

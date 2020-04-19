@@ -1,9 +1,12 @@
 {
   "name": "sourc",
   "description": "dark theme for vscode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "vitormalencar",
   "publisher": "vitormalencar",
+  "scripts": {
+    "publish": "vsce publish"
+  },
   "bugs": {
     "url": "https://github.com/vitormalencar/sourc/issues"
   },

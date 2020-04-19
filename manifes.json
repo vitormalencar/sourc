@@ -1,0 +1,27 @@
+{
+  "lang": "en",
+  "name": "Sourc vscode dark theme",
+  "scope": "/sourc/",
+  "display": "browser",
+  "start_url": "https://www.vitormalencar.com/sourc/",
+  "short_name": "Sourc",
+  "theme_color": "transparent",
+  "description": "dark theme for vscode, for programmers who stay up at night",
+  "orientation": "any",
+  "background_color": "transparent",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/android-chrome-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    }
+  ],
+  "url": "https://www.vitormalencar.com/sourc/"
+}

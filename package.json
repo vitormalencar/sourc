@@ -1,9 +1,10 @@
 {
   "name": "sourc",
   "description": "dark theme for vscode",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "vitormalencar",
   "publisher": "vitormalencar",
+  "icon": "images/icon.png",
   "scripts": {
     "publish": "vsce publish"
   },

@@ -1,6 +1,16 @@
-<p align="center"><img width="400px" src="https://github.com/vitormalencar/sourc/blob/master/images/banner.png?raw=true"></p>
-<p align="center">
-Sourc is a dark syntax vsCode theme that supports a variety of languages including JavaScript, HTML, CSS, PHP, Python and Ruby.
+<div align="center">
+	<img src="https://github.com/vitormalencar/sourc/blob/master/images/logo_animated.svg?raw=true" width="200" height="200">
+	<h1>Sourc</h1>
+	<p>
+		<b>Dark theme for vscode</b>
+	</p>
+	<br>
+	<br>
+	<br>
+</div>
+
+
+Sourc is a darkVS Code theme that supports a variety of languages including JavaScript, HTML, CSS, PHP, Python and Ruby.
 
 
 The most epic theme meets Visual Studio Code. You can help by reporting issues [here]().
@@ -22,3 +32,16 @@ ext install sourc theme
 ```
 
 And pick the one by **Vitor Alencar (vitormalencar)**  as author.
+
+
+
+## Screenshots
+Html
+<img src="https://github.com/vitormalencar/sourc/blob/master/images/syntax/html.png?raw=true" height="auto">
+
+React
+<img src="https://github.com/vitormalencar/sourc/blob/master/images/syntax/react.png?raw=true">
+Ruby
+<img src="https://github.com/vitormalencar/sourc/blob/master/images/syntax/ruby.png?raw=true">
+Python
+<img src="https://github.com/vitormalencar/sourc/blob/master/images/syntax/python.png?raw=true">

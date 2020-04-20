@@ -45,3 +45,8 @@ Ruby
 <img src="https://github.com/vitormalencar/sourc/blob/master/images/syntax/ruby.png?raw=true">
 Python
 <img src="https://github.com/vitormalencar/sourc/blob/master/images/syntax/python.png?raw=true">
+
+
+## License
+
+MIT made with ❤️ © [vitormalencar](https://github.com/vitormalencar)

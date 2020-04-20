@@ -10,10 +10,10 @@
 </div>
 
 
-Sourc is a darkVS Code theme that supports a variety of languages including JavaScript, HTML, CSS, PHP, Python and Ruby.
+Sourc is a dark VS Code theme that supports a variety of languages including JavaScript, HTML, CSS, PHP, Python and Ruby.
 
 
-The most epic theme meets Visual Studio Code. You can help by reporting issues [here]().
+The most epic theme meets Visual Studio Code. You can help by reporting issues [here](https://github.com/vitormalencar/sourc/issues).
 
 <!-- ## Getting started -->
 

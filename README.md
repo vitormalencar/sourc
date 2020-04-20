@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/vitormalencar/sourc/blob/master/images/logo_animated.svg?raw=true" width="200" height="200">
+	<img src="https://github.com/vitormalencar/sourc/blob/master/site/images/logo_animated.svg?raw=true" width="200" height="200">
 	<h1>Sourc</h1>
 	<p>
 		<b>Dark theme for vscode</b>

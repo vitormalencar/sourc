@@ -4,7 +4,24 @@
 	<p>
 		<b>Dark theme for vscode</b>
 	</p>
-	<br>
+<div>
+  <a
+    href="https://marketplace.visualstudio.com/items?itemName=vitormalencar.sourc&ssr=false#overview"
+  >
+    <img
+      alt="Version"
+      src="https://vsmarketplacebadge.apphb.com/version-short/vitormalencar.sourc.svg?style=for-the-badge"
+    />
+  </a>
+  <a
+    href="https://marketplace.visualstudio.com/items?itemName=vitormalencar.sourc&ssr=false#overview"
+  >
+    <img
+      alt="Rating"
+      src="https://vsmarketplacebadge.apphb.com/rating-star/vitormalencar.sourc.svg?style=for-the-badge"
+    />
+  </a>
+</div>
 	<br>
 	<br>
 </div>

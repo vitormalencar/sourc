@@ -1,7 +1,7 @@
 {
-	"name": "sourc",
-	"type": "dark",
-	"colors": {
+  "name": "sourc",
+  "type": "dark",
+  "colors": {
     "focusBorder": "#ff963b",
     "foreground": "#00caff",
     "widget.shadow": "#00141d",
@@ -37,8 +37,8 @@
     "list.focusBackground": "#00627e",
     "list.highlightForeground": "#ff963b",
     "list.hoverBackground": "#002e3d",
-    "list.inactiveSelectionBackground": "#ff963b",
-    "list.inactiveSelectionForeground": "#002e3d",
+    "list.inactiveSelectionBackground": "#ff963b7f",
+    "list.inactiveSelectionForeground": "#ff963b",
     "list.hoverForeground": "#0096be",
     "list.focusForeground": "#00141d",
     "list.invalidItemForeground": "#ff5b6f",

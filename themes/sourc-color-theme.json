@@ -55,7 +55,7 @@
     "activityBarBadge.background": "#ff963b",
     "activityBarBadge.foreground": "#00141d",
     "sideBar.background": "#00141d",
-    "sideBar.foreground": "#00b0df",
+    "sideBar.foreground": "#d6deeb",
     "sideBar.border": "#002e3d",
     "sideBarTitle.foreground": "#0096be",
     "sideBarSectionHeader.background": "#00485e",
@@ -76,7 +76,7 @@
     "tab.unfocusedActiveForeground": "#00627e",
     "tab.unfocusedInactiveForeground": "#00485e",
     "editor.background": "#00141d",
-    "editor.foreground": "#00caff",
+    "editor.foreground": "#d6deeb",
     "editorLineNumber.foreground": "#00485e",
     "editorCursor.foreground": "#ff963b",
     "editor.selectionBackground": "#00485e",
@@ -302,7 +302,7 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#00caff"
+        "foreground": "#d6deeb"
       }
     },
     {
